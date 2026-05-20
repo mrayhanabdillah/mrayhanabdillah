@@ -62,7 +62,7 @@ I'm an **Odoo Developer** and **Web Developer** passionate about building busine
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrayhanabdillah&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrayhanabdillah)](https://github.com/mrayhanabdillah/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrayhanabdillah&layout=compact&theme=tokyonight&hide_border=true)
 
