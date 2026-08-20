@@ -60,14 +60,6 @@ I'm an **Odoo Developer** and **Web Developer** passionate about building busine
 - Exploring AI integration with Odoo, MCP, and LLM tools
 - Learning more about modern AI tools and their use cases in software development
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrayhanabdillah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrayhanabdillah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mrayhanabdillah&theme=tokyonight&hide_border=true)
-
 ## 📫 Connect With Me
 
 - GitHub: [@mrayhanabdillah](https://github.com/mrayhanabdillah)
